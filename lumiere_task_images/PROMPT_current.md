@@ -1,9 +1,9 @@
-Panel A and Panel C are brightfield micrographs of two different unicellular, colonial cyanobacteria from the same surface-water sample, collected during a summer bloom in a eutrophic subtropical lake. The blue scale bar represents $20\ \mu\text{m}$ in Panel A and $10\ \mu\text{m}$ in Panel C. Microscope counts of the same sample gave $1.0 \times 10^{5}$ cells $\text{mL}^{-1}$ for the taxon in Panel A and $4.0 \times 10^{5}$ cells $\text{mL}^{-1}$ for the taxon in Panel C.
+Panel D is a brightfield micrograph of coiled filaments of a planktonic cyanobacterium in a surface-water bloom sample collected in daylight from a eutrophic, nitrogen-limited subtropical lake. Before mounting, the lake water was concentrated 50-fold, and the field shown corresponds to $5.0\ \text{nL}$ of the concentrated suspension.
 
-For microcystin risk assessment, biovolume is calculated only for the taxon that belongs to the genus after which the microcystins are named. What is that taxon's total biovolume concentration in this sample?
+Assume that each cell actively fixing $\text{N}_2$ under these oxic conditions fixes $0.20\ \text{fmol N}_2\ \text{h}^{-1}$, that cells which do not fix $\text{N}_2$ under these conditions contribute nothing, and that the field shown is representative of the sample.
+
+What is the $\text{N}_2$ fixation rate of this cyanobacterial population in the original (unconcentrated) lake water?
 
 Conventions:
-- Treat cells as spheres.
-- Take the cell diameter from one reference cell per panel: in Panel A, the lowest cell whose centre lies within the right-hand quarter of the image width (it stands apart, surrounded by clear background, below the right-hand group of cells); in Panel C, the lowest cell of the cluster (the one closest to the bottom edge of the image).
-- Measure the reference cell's longest and shortest outer-edge-to-outer-edge widths (excluding any pale halo), each against the length of the blue part of the scale bar (excluding its black outline). Use their mean as the cell diameter, rounded to the nearest whole $\mu\text{m}$ before calculating.
-- Report the biovolume in $\text{mm}^3\ \text{L}^{-1}$ as a whole number, without units (for example: "57").
+- Count every relevant cell whose centre lies inside the image, whether it is in sharp focus or not.
+- Report the rate in $\text{nmol N}_2\ \text{L}^{-1}\ \text{h}^{-1}$ to two significant figures, without units (for example: "7.3").
