@@ -23,3 +23,6 @@ Rules learned from Prompt Checker flags on this task. Apply to every future Lumi
 6. Only one question; nothing to name unless it is the answer.
 7. Only foundational, textbook criteria.
 8. KaTeX for units/maths, example value is not a real option, under 2,000 characters.
+
+## Self-caught error (guideline reread, §6.1 single canonical answer)
+| 10 | (caught before checker) | "Widest distance" on a slightly oval cell gave 9.0-9.6 um depending on edge reading, so the 0.5-um rounding could land on 9.0 or 9.5; earlier GTFA 32 assumed 8.5 um and was wrong | Before fixing a GTFA, measure the object objectively at full resolution (several edge thresholds) and confirm the rounded value never changes. For near-spherical cells use the mean of longest and shortest widths (equivalent diameter) and round to a bin wide enough that every threshold gives the same value. |
